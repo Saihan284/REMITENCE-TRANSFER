@@ -1,2 +1,2 @@
 # REMITENCE-TRANSFER
-Flutter app for secure remittance transfer from Oman to Bangladeshi banks and mobile wallets.
+Flutter app for secure remittance transfer from Oman to Myanmar banks and mobile wallets.
